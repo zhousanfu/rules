@@ -1,0 +1,13 @@
+#> ScriptName        𝐑𝐞𝐯𝐞𝐧𝐮𝐞𝐂𝐚𝐭多合一脚本[墨鱼版]
+#> Author            @ddgksf2013
+#> ForHelp           若有屏蔽广告的需求，可公众号后台回复APP名称
+#> WechatID          墨鱼手记
+#> TgChannel         https://t.me/ddgksf2021
+#> ScriptURL         https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+
+
+[Script]
+Apps=type=http-response,pattern=^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$,requires-body=1,
+script-path=https://gist.githubusercontent.com/ddgksf2013/dbb1695cd96743eef18f3fac5c6fe227/raw/revenuecat.js
+[MITM]
+hostname = %APPEND% api.revenuecat.com
