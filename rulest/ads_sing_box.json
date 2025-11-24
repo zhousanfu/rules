@@ -3,10 +3,20 @@
     "rules": [
       {
         "domain": [
+            "adm.10jqka.com.cn",
+            "df.tanx.com",
+            "ad-r.soulapp.cn",
+            "adsmind.ugdtimg.com"
         ]
       },
       {
         "domain_suffix": [
+            "l.qq.com",
+            "e.qq.com",
+            "ug.baidu.com",
+            "afdback.ppsimg.com",
+            "api.poll.video.qq.com",
+            "pangolin-sdk-toutiao1.com"
         ]
       },
       {
