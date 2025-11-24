@@ -1,27 +1,23 @@
 {
     "version": 2,
     "rules": [
-      {
-        "domain": [
-            "adm.10jqka.com.cn",
-            "df.tanx.com",
-            "ad-r.soulapp.cn",
-            "api.poll.video.qq.com",
-            "adsmind.ugdtimg.com"
-        ]
-      },
-      {
-        "domain_suffix": [
-            "l.qq.com",
-            "e.qq.com",
-            "ug.baidu.com",
-            "afdback.ppsimg.com",
-            "pangolin-sdk-toutiao1.com"
-        ]
-      },
-      {
-        "domain_keyword": [
-        ]
-      }
+        {
+            "domain": [
+                "adm.10jqka.com.cn",
+                "df.tanx.com",
+                "ad-r.soulapp.cn",
+                "api.poll.video.qq.com",
+                "adsmind.ugdtimg.com"
+            ]
+        },
+        {
+            "domain_suffix": [
+                "l.qq.com",
+                "e.qq.com",
+                "ug.baidu.com",
+                "afdback.ppsimg.com",
+                "pangolin-sdk-toutiao1.com"
+            ]
+        }
     ]
-  }
+}
