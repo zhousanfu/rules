@@ -15,3 +15,6 @@
 ├── confs   loon 圈X类格式配置文件
 └── loon    域名规则
 ```
+
+
+sing-box rule-set compile --output ads_sing_box.srs ads_sing_box.json

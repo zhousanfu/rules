@@ -1,11 +1,12 @@
 {
-    "version": 3,
+    "version": 2,
     "rules": [
       {
         "domain": [
             "adm.10jqka.com.cn",
             "df.tanx.com",
             "ad-r.soulapp.cn",
+            "api.poll.video.qq.com",
             "adsmind.ugdtimg.com"
         ]
       },
@@ -15,7 +16,6 @@
             "e.qq.com",
             "ug.baidu.com",
             "afdback.ppsimg.com",
-            "api.poll.video.qq.com",
             "pangolin-sdk-toutiao1.com"
         ]
       },
