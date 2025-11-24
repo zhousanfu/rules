@@ -1,0 +1,17 @@
+{
+    "version": 2,
+    "rules": [
+      {
+        "domain": [
+        ]
+      },
+      {
+        "domain_suffix": [
+        ]
+      },
+      {
+        "domain_keyword": [
+        ]
+      }
+    ]
+  }
